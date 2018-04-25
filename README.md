@@ -34,6 +34,6 @@ j = interation number
 DOPS_solution_iterj.mat contains the best solution vector from swarm search.  
 DOPS_particlej.mat contains the particle matrix - contains particle states for every iteration within the trial.  
 DOPS_fitnessj.mat contains the fitness matrix - contains fitness states for the corresponding particle matrix.  
-DOPS_time_iterj.txt timeDOPS' contains the run time.  
-DDSPSO_strategy1_5_swarms_results_DDSPSO_strategy1_errordds_iterj.mat cotains the best fitness value from DDS search.  
-DDSPSO_strategy1_5_swarms_results_DDSPSO_strategy1_particledds_iterj.mat contains the best solution vector from DDS search.  
+DOPS_time_iterj.txt - contains the run time.  
+DDSPSO_strategy1_5_swarms_results_DDSPSO_strategy1_errordds_iterj.mat - contains the best fitness value from DDS search.  
+DDSPSO_strategy1_5_swarms_results_DDSPSO_strategy1_particledds_iterj.mat - contains the best solution vector from DDS search.  
