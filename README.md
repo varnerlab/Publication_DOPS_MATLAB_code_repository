@@ -7,7 +7,7 @@ The DOPS code is described in the publication:
  
 [Sagar, LeCover, Shoemaker and Varner (2018) Dynamic Optimization with Particle Swarms(DOPS): A meta-heuristic for parameterestimation in biochemical models https://www.biorxiv.org/content/early/2017/12/28/240580](https://www.biorxiv.org/content/early/2017/12/28/240580)
 
-###Installation and Requirements ###
+### Installation and Requirements ###
 You can download this repository as a zip file, or `clone`/`pull` it by using the command (from the command-line):
 
 	$ git pull https://github.com/varnerlab/Publication_DOPS_MATLAB_code_repository.git
