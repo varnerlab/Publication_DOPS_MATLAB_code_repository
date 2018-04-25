@@ -7,8 +7,8 @@ The DOPS code is described in the publication:
  
 [Sagar, LeCover, Shoemaker and Varner (2018) Dynamic Optimization with Particle Swarms(DOPS): A meta-heuristic for parameterestimation in biochemical models https://www.biorxiv.org/content/early/2017/12/28/240580](https://www.biorxiv.org/content/early/2017/12/28/240580)
 
-# Running DOPS
+# How do I run DOPS?
 The code to run DOPS is in DOPS_core, runForTable1.m will run DOPS on a variety of test functions. 
 
-# Running msDOPS
+# How do I run msDOPS?
 The code to run DOPS is in msDOPS_core, runForTable1_ms.m will run DOPS on a variety of test functions. 
