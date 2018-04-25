@@ -30,10 +30,10 @@ First, you need to ensure that the files in msDOPS_core have been added to Matla
 The code to run DOPS is in msDOPS_core, runForTable1_ms.m will run DOPS on a variety of test functions. To run msDOPS on your own function, call run_msDOPS(@my_function, lower_bounds, upper_bounds, lowerIter, upperIter), where my_function takes in a vector of parameters and returns a floating point number. Lower_bounds and upper_bounds must have the same dimensions, and lowerIter and upperIter are integers describing how many iterations of msDOPS will be run. 
 
 # How do I view my results? #
-j = interation number
-DOPS_solution_iterj.mat contains the best solution vector from swarm search.
-DOPS_particlej.mat contains the particle matrix - contains particle states for every iteration within the trial.
-DOPS_fitnessj.mat contains the fitness matrix - contains fitness states for the corresponding particle matrix.
-DOPS_time_iterj.txt timeDOPS' contains the run time.
-DDSPSO_strategy1_5_swarms_results_DDSPSO_strategy1_errordds_iterj.mat cotains the best fitness value from DDS search
-DDSPSO_strategy1_5_swarms_results_DDSPSO_strategy1_particledds_iterj.mat contains the best solution vector from DDS search
+j = interation number  
+DOPS_solution_iterj.mat contains the best solution vector from swarm search.  
+DOPS_particlej.mat contains the particle matrix - contains particle states for every iteration within the trial.  
+DOPS_fitnessj.mat contains the fitness matrix - contains fitness states for the corresponding particle matrix.  
+DOPS_time_iterj.txt timeDOPS' contains the run time.  
+DDSPSO_strategy1_5_swarms_results_DDSPSO_strategy1_errordds_iterj.mat cotains the best fitness value from DDS search.  
+DDSPSO_strategy1_5_swarms_results_DDSPSO_strategy1_particledds_iterj.mat contains the best solution vector from DDS search.  
